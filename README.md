@@ -9,3 +9,5 @@ Più nel dettaglio:
 -il file EFTA00917316 contiene una conversazione via email tra Jeffrey Epstein e il finanziere Ian Osborne nella quale si parla della possibilità di incontrare non meglio precisati membri di un Team Berlusconi
 
 -il file EFTA01614963 contiene messaggi inviati da Steve Bannon che parla della possibilità di incontrare Beppe Grillo, Silvio Berlusconi ed esponenti del Movimento5Stelle
+
+-il file EFTA01997190 contiene la proposta di investire in Endemol rivolta da David Stern a Epstein
