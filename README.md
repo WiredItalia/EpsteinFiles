@@ -11,3 +11,11 @@ Più nel dettaglio:
 -il file EFTA01614963 contiene messaggi inviati da Steve Bannon che parla della possibilità di incontrare Beppe Grillo, Silvio Berlusconi ed esponenti del Movimento5Stelle
 
 -il file EFTA01997190 contiene la proposta di investire in Endemol rivolta da David Stern a Epstein
+
+-il file EFTA02566115 contiene una mail che Edward Jay Epstein, omonimo del finanziere al centro dello scandalo, inviava a quest'ultimo per parlare dei retroscena relativi alle dimissioni di Benedetto XVI
+
+-il file EFTA01904032 contiene il testo ricevuto da Edward Jay Epstein e inoltrato da Jeffrey Epstein all'economista Larry Summers
+
+-il file EFTA01125320 contiene un'inchiesta di Edward Jay Epstein dedicata alla morte di Roberto Calvi, il banchiere di Dio
+
+-il file EFTA02700916 contiene la mail che accompagna l'invio dell'inchiesta
