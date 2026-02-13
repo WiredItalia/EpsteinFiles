@@ -1,4 +1,4 @@
-In questo repository sono contenuti alcuni documenti scaricati dal sito https://www.justice.gov/epstein sul quale sono stati pubblicati i cosiddetti Epstein files. Si tratta di documenti utilizzati da Wired Italia per un'inchiesta.
+In questo repository sono contenuti alcuni documenti scaricati dal sito https://www.justice.gov/epstein sul quale sono stati pubblicati i cosiddetti Epstein files. Si tratta di documenti utilizzati da Wired Italia per alcuni articoli sugli Epstein files.
 
 Più nel dettaglio:
 
